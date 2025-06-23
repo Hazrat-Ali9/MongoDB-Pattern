@@ -5,7 +5,6 @@
 # MongoDB Pattern
 
 
-# MongoDB Pattern
 
 * 1 : MongoDB + ODM + Extra Features = Mongoose 
 
